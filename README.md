@@ -1,7 +1,8 @@
 # Calculando o saldo de vitórias e Promovendo de nível do Herói🏆
 
-O principal intuito deste projeto é contabilizar a quantidade de vitórias e a quantidade de derrotas e promovendo o nível do usuário por meio do saldo do cálculo
-
+O principal intuito deste projeto é contabilizar a quantidade de vitórias e a quantidade de derrotas e promovendo o nível do usuário por meio do saldo do cálculo. No final deve se exibir uma mensagem:
+"O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**".
+ 
 ## 💻 Código em JavaScript
 
 ```javascript
