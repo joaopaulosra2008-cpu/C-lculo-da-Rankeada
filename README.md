@@ -1,1 +1,1 @@
-# C-lculo-da-Rankeada
+# calculoDaRankeada
